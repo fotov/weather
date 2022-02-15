@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d482cc1e-d8bd-48a1-8151-33ebd6c14b8e">
+  <name>Погода</name>
+  <synonym>
+    <key>ru</key>
+    <value>Погода</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

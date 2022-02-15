@@ -35,5 +35,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.Погода</commonModules>
+  <httpServices>HTTPService.weather</httpServices>
   <dataProcessors>DataProcessor.Погода</dataProcessors>
 </mdclass:Configuration>
