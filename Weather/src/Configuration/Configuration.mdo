@@ -21,6 +21,7 @@
     <use>true</use>
   </requiredMobileApplicationPermissions>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <mainClientApplicationWindowMode>Workplace</mainClientApplicationWindowMode>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
@@ -34,4 +35,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <dataProcessors>DataProcessor.Погода</dataProcessors>
 </mdclass:Configuration>
