@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4c8dbf28-7caa-442c-89d1-26197ff127d2">
+  <name>Weather</name>
+  <synonym>
+    <key>ru</key>
+    <value>Weather</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="389685e3-af43-4b34-8f70-8c1afea7d4b6"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ac22af81-5c36-4d1b-aa5a-d9fba6c84e3b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="35ae4490-8b8f-4a09-beea-9736b9e3e358"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="dc2e45cf-c32e-4b2f-9a07-ed9d99612a53"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="4c9d9460-5800-4cee-92df-931477396599"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="48faa112-1ced-4ee4-9822-f2ae3102ede0"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="fce1c53b-fe55-439a-a4e3-bc32f98cd69b"/>
+  <configurationExtensionCompatibilityMode>8.3.17</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <requiredMobileApplicationPermissions>
+    <permission>AllowOSBackup</permission>
+    <use>true</use>
+  </requiredMobileApplicationPermissions>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.17</compatibilityMode>
+  <languages uuid="67950c43-f2e2-4e68-92ca-d4e7758390cf">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
