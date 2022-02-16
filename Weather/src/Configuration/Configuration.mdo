@@ -36,6 +36,8 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.Погода</commonModules>
+  <commonModules>CommonModule.Погода_openweathermap</commonModules>
+  <commonModules>CommonModule.ТестовыйПример</commonModules>
   <httpServices>HTTPService.weather</httpServices>
   <dataProcessors>DataProcessor.Погода</dataProcessors>
 </mdclass:Configuration>
